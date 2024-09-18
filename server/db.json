@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Smartphone XYZ",
+      "price": 799.99,
+      "description": "High-end smartphone with a 6.5-inch OLED display, 128GB storage, and triple camera system."
+    },
+    {
+      "id": "2",
+      "name": "Wireless Headphones ABC",
+      "price": 149.99,
+      "description": "Noise-cancelling over-ear headphones with 30 hours of battery life and Bluetooth 5.0."
+    },
+    {
+      "id": "ceec",
+      "name": "Laptop Pro 15",
+      "price": 1299.99,
+      "description": "15-inch laptop with Intel Core i7, 16GB RAM, 512GB SSD, and a dedicated graphics card."
+    }
+  ]
+}
